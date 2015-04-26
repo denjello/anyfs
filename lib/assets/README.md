@@ -1,5 +1,23 @@
 # icons
 
+### Facet And Receptacle
+
+- pngcrushed png (transparent)
+- jpg (white background)
+- svg (created with inkscape)
+
+FONT:
+
+- [Pablo Impallari](https://plus.google.com/114391601624281927771/about)
+- [Dosis](https://www.google.com/fonts/specimen/Dosis)
+- [SIL Open Font License, 1.1](http://scripts.sil.org/OFL)
+
+
+IMAGE:
+
+- [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/) "Denjell"
+
+
 ### Triple Torus
 
 Comes with:
@@ -15,8 +33,6 @@ Use browser sub-sampling with the following tag:
 
 `<img src="anyfs_expletusSans_border.gif" height="32" width="128">`
 
-
-### Licensing
 FONT:
 
 - [Expletus Sans](http://www.google.com/fonts/specimen/Expletus+Sans)
